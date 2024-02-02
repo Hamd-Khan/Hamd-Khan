@@ -5,30 +5,29 @@
 Hello there! I'm a third-year software engineering student with a passion for diving into the exciting realms of Artificial Intelligence and Machine Learning. I'm enthusiastic about using data to make informed decisions, and my love for programming knows no bounds. Always up for a challenge, I enjoy learning new things and exploring the vast landscape of technology and programming. Come along for the ride as I navigate the world of software engineering with enthusiasm and curiosity! 🚀✨🤔
 
 ---
-## Social
+<div style="display: flex; justify-content: space-around;">
+  ## Social
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamdkhan/">
-    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="margin-right: 20px;"/>
-  </a>
-  <a href="http://hamdkhan.netlify.app">
-    <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" width="80" height="80"/>
-  </a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/hamdkhan/">
+      <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="margin-right: 20px;"/>
+    </a>
+    <a href="http://hamdkhan.netlify.app">
+      <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" width="80" height="80"/>
+    </a>
+  </p>
 
----
+  ## 🖥️ Languages and Tools
 
-
-## 🖥️ Languages and Tools
-
-<p align="center">
-  <img alt="language" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-</p>
+  <p>
+    <img alt="language" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="language" width="50px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </p>
+</div>
