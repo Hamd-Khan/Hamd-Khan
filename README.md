@@ -7,15 +7,20 @@ Hello there! I'm a third-year software engineering student with a passion for di
 ---
 ## Socials
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/hamdkhan/" style="text-align: center; margin-right: 20px;">
-    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" />
-    <p style="font-size: 14px;">Follow My Journey</p>
-  </a>
-  <a href="http://hamdkhan.netlify.app" style="text-align: center;">
-    <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line.svg" width="80" height="80" />
-    <p style="font-size: 14px;">My Site</p>
-  </a>
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <a href="https://www.linkedin.com/in/hamdkhan/">
+      <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" />
+      <p style="font-size: 14px;">Follow My Journey</p>
+    </a>
+  </div>
+  
+  <div style="display: inline-block; text-align: center;">
+    <a href="http://hamdkhan.netlify.app">
+      <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line.svg" width="80" height="80" />
+      <p style="font-size: 14px;">My Site</p>
+    </a>
+  </div>
 </div>
 
 
