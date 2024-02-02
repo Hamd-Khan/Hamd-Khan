@@ -9,10 +9,10 @@ Hello there! I'm a third-year software engineering student with a passion for di
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamdkhan/">
-    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" style="margin-right: 20px;"/>
+    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="margin-right: 20px;"/>
   </a>
   <a href="http://hamdkhan.netlify.app">
-    <img alt="My Portfolio" title="My Portfolio" src="http://www.w3.org/2000/svg" width="60" height="60";"/>
+    <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" width="80" height="80"/>
   </a>
 </p>
 
@@ -23,11 +23,12 @@ Hello there! I'm a third-year software engineering student with a passion for di
 
 <p align="center">
   <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="language" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img alt="language" width="50px" style="margin-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </p>
