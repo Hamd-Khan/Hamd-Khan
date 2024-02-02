@@ -8,6 +8,7 @@ Hello there! I'm a third-year software engineering student with a passion for di
 ## Socials
 
 <div align="center">
+  🚀🚀
   <a href="https://www.linkedin.com/in/hamdkhan/">
     <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80"/>
   </a>
@@ -15,6 +16,7 @@ Hello there! I'm a third-year software engineering student with a passion for di
   <a href="http://hamdkhan.netlify.app">
     <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="80" height="80"/>
   </a>
+  🚀🚀
 </div>
 
 
