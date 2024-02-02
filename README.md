@@ -10,10 +10,11 @@ Hello there! I'm a third-year software engineering student who's all about divin
           
 <p align="center">
   <a href="https://www.linkedin.com/in/hamdkhan/">
-    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="margin-right: 10px;"/></a>
+    <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 20px;"/></a>
   <a href="http://hamdkhan.netlify.app">
-    <img alt="My Site" title="My Site" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30" height="30"/></a>
+    <img alt="My Portfolio" title="My Portfolio" src="🌐" width="40" height="40" style="margin-left: 20px;"/></a>
 </p>
+
 
 
 <br/>
