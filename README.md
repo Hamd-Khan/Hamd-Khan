@@ -5,7 +5,6 @@
 Hello there! I'm a third-year software engineering student with a passion for diving into the exciting realms of Artificial Intelligence and Machine Learning. I'm enthusiastic about using data to make informed decisions, and my love for programming knows no bounds. Always up for a challenge, I enjoy learning new things and exploring the vast landscape of technology and programming. Come along for the ride as I navigate the world of software engineering with enthusiasm and curiosity! 🚀✨🤔
 
 ---
-
 ## Social
 
 <p align="center">
@@ -13,11 +12,12 @@ Hello there! I'm a third-year software engineering student with a passion for di
     <img alt="LinkedIn" title="Follow My Journey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" style="margin-right: 20px;"/>
   </a>
   <a href="http://hamdkhan.netlify.app">
-    <img alt="My Portfolio" title="My Portfolio" src="🌐" width="60" height="60" style="margin-left: 20px;"/>
+    <img alt="My Portfolio" title="My Portfolio" src="http://www.w3.org/2000/svg" width="60" height="60";"/>
   </a>
 </p>
 
 ---
+
 
 ## 🖥️ Languages and Tools
 
