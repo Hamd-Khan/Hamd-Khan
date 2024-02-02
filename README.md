@@ -13,7 +13,7 @@ Hello there! I'm a third-year software engineering student with a passion for di
   </a>
   <p align="center" style="font-size: 14px;">Follow My Journey</p>
   <a href="http://hamdkhan.netlify.app">
-    <img alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line.svg" width="80" height="80"/>
+    <img align="center" alt="My Portfolio" title="My Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-line.svg" width="80" height="80"/>
   </a>
   <p align="center" style="font-size: 14px;">My Site</p>
 </p>
